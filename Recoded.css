@@ -7,3 +7,13 @@ box-shadow: 2px 3px 4px green;
 transition:transform 7s ease-in;
 transform: scale(1.1,1.1);
 }
+
+.red {
+ background-color:red;
+}
+.yellow {
+ background-color:yellow;
+}
+.green {
+ background-color:green;
+}
