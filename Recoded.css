@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
 picsum {
 content:url("https://picsum.photos/200/200");
 }
 
 picsum:hover {
-box-shadow: 2px 3px 4px green;
 transition:transform 7s ease-in;
 transform: scale(1.1,1.1);
 }
@@ -16,4 +17,8 @@ transform: scale(1.1,1.1);
 }
 .green {
  background-color:green;
+}
+
+.time{
+font-family: 'Orbitron', sans-serif;
 }
