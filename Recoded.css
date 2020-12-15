@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
 
 picsum {
 content:url("https://picsum.photos/200/200");
@@ -19,6 +19,51 @@ transform: scale(1.1,1.1);
  background-color:green;
 }
 
-.time{
+.orbitron1{
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
 font-family: 'Orbitron', sans-serif;
+}
+.orbitron2{
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+font-family: 'Orbitron', sans-serif;
+}
+.orbitron3{
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+font-family: 'Orbitron', sans-serif;
+}
+.orbitron4{
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+font-family: 'Orbitron', sans-serif;
+}
+.orbitron5{
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&display=swap');
+font-family: 'Orbitron', sans-serif;
+}
+.orbitron6{
+ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+font-family: 'Orbitron', sans-serif;
+}
+.lobster{
+ @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+font-family: 'Lobster', cursive;
+}
+.indie-flower {
+ @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+font-family: 'Indie Flower', cursive;
+}
+.parmanent-marker {
+ @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+font-family: 'Permanent Marker', cursive;
+}
+.satisfy {
+ @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+ font-family: 'Satisfy', cursive;
+}
+.east-sea-dokdo {
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+font-family: 'East Sea Dokdo', cursive;
+}
+.luckiest-guy {
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+font-family: 'Luckiest Guy', cursive;
 }
