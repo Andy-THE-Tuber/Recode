@@ -10,13 +10,25 @@ transform: scale(1.1,1.1);
 }
 
 .red {
- background-color:red;
+ color:red;
 }
 .yellow {
- background-color:yellow;
+ color:yellow;
 }
 .green {
- background-color:green;
+ color:green;
+}
+.blue {
+ color:blue;
+}
+.black {
+ color:black;
+}
+.grey {
+ color:grey;
+}
+.noselect {
+user-select:none;
 }
 
 .orbitron1{
