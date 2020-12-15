@@ -79,3 +79,28 @@ font-family: 'East Sea Dokdo', cursive;
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 font-family: 'Luckiest Guy', cursive;
 }
+.chewy {
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+font-family: 'Chewy', cursive;
+}
+.frijole {
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+font-family: 'Frijole', cursive;
+}
+
+.creepster {
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+font-family: 'Creepster', cursive;
+}
+.faster-one {
+ @import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
+ font-family: 'Faster One', cursive;
+}
+.eater {
+ @import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+ font-family: 'Eater', cursive;
+}
+.nosifer {
+ @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+ font-family: 'Nosifer', cursive;
+}
