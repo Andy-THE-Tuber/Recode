@@ -1,19 +1,19 @@
-
+//font family
 @import url('https://fonts.googleapis.com/css2?family=Chewy&family=Creepster&family=East+Sea+Dokdo&family=Eater&family=Faster+One&family=Frijole&family=Indie+Flower&family=Lobster&family=Luckiest+Guy&family=Nosifer&family=Orbitron:wght@600&family=Permanent+Marker&family=Satisfy&display=swap');
 
 .orbitron{font-family: 'Orbitron', sans-serif;} 
- .lobster{ font-family: 'Lobster', cursive; }
- .indie-flower { font-family: 'Indie Flower', cursive; }
- .parmanent-marker {font-family: 'Permanent Marker', cursive; } 
-.satisfy { font-family: 'Satisfy', cursive; }
- .east-sea-dokdo { font-family: 'East Sea Dokdo', cursive; }
- .luckiest-guy {  font-family: 'Luckiest Guy', cursive; } 
-.chewy { font-family: 'Chewy', cursive; }
- .frijole { font-family: 'Frijole', cursive; }
- .creepster {  font-family: 'Creepster', cursive; } 
-.faster-one {  font-family: 'Faster One', cursive; } 
-.eater { font-family: 'Eater', cursive; } 
-.nosifer { font-family: 'Nosifer', cursive; }
+ .lobster{ font-family: 'Lobster', sans-serif; }
+ .indie-flower { font-family: 'Indie Flower', sans-serif; }
+ .parmanent-marker {font-family: 'Permanent Marker', sans-serif; } 
+.satisfy { font-family: 'Satisfy', sans-serif; }
+ .east-sea-dokdo { font-family: 'East Sea Dokdo', sans-serif; }
+ .luckiest-guy {  font-family: 'Luckiest Guy', sans-serif; } 
+.chewy { font-family: 'Chewy', sans-serif; }
+ .frijole { font-family: 'Frijole', sans-serif; }
+ .creepster {  font-family: 'Creepster', sans-serif; } 
+.faster-one {  font-family: 'Faster One', sans-serif; } 
+.eater { font-family: 'Eater', sans-serif; } 
+.nosifer { font-family: 'Nosifer', sans-serif; }
 
 picsum {
 content:url("https://picsum.photos/200/200");
