@@ -1,4 +1,32 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); 
+ @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap'); 
+ @import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap'); 
+
+
+.orbitron{font-family: 'Orbitron', sans-serif;} 
+ .lobster{ font-family: 'Lobster', cursive; }
+ .indie-flower { font-family: 'Indie Flower', cursive; }
+ .parmanent-marker {font-family: 'Permanent Marker', cursive; } 
+.satisfy { font-family: 'Satisfy', cursive; }
+ .east-sea-dokdo { font-family: 'East Sea Dokdo', cursive; }
+ .luckiest-guy {  font-family: 'Luckiest Guy', cursive; } 
+.chewy { font-family: 'Chewy', cursive; }
+ .frijole { font-family: 'Frijole', cursive; }
+ .creepster {  font-family: 'Creepster', cursive; } 
+.faster-one {  font-family: 'Faster One', cursive; } 
+.eater { font-family: 'Eater', cursive; } 
+.nosifer { font-family: 'Nosifer', cursive; }
 
 picsum {
 content:url("https://picsum.photos/200/200");
@@ -31,76 +59,3 @@ transform: scale(1.1,1.1);
 user-select:none;
 }
 
-.orbitron1{
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
-font-family: 'Orbitron', sans-serif;
-}
-.orbitron2{
- @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
-font-family: 'Orbitron', sans-serif;
-}
-.orbitron3{
- @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
-font-family: 'Orbitron', sans-serif;
-}
-.orbitron4{
- @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
-font-family: 'Orbitron', sans-serif;
-}
-.orbitron5{
- @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&display=swap');
-font-family: 'Orbitron', sans-serif;
-}
-.orbitron6{
- @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
-font-family: 'Orbitron', sans-serif;
-}
-.lobster{
- @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-font-family: 'Lobster', cursive;
-}
-.indie-flower {
- @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-font-family: 'Indie Flower', cursive;
-}
-.parmanent-marker {
- @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
-font-family: 'Permanent Marker', cursive;
-}
-.satisfy {
- @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
- font-family: 'Satisfy', cursive;
-}
-.east-sea-dokdo {
-@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
-font-family: 'East Sea Dokdo', cursive;
-}
-.luckiest-guy {
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
-font-family: 'Luckiest Guy', cursive;
-}
-.chewy {
-@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
-font-family: 'Chewy', cursive;
-}
-.frijole {
-@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
-font-family: 'Frijole', cursive;
-}
-
-.creepster {
-@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
-font-family: 'Creepster', cursive;
-}
-.faster-one {
- @import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
- font-family: 'Faster One', cursive;
-}
-.eater {
- @import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
- font-family: 'Eater', cursive;
-}
-.nosifer {
- @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
- font-family: 'Nosifer', cursive;
-}
