@@ -1,18 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); 
- @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap'); 
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap'); 
-@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap'); 
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap'); 
- @import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap'); 
-
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Creepster&family=East+Sea+Dokdo&family=Eater&family=Faster+One&family=Frijole&family=Indie+Flower&family=Lobster&family=Luckiest+Guy&family=Nosifer&family=Orbitron:wght@600&family=Permanent+Marker&family=Satisfy&display=swap');
 
 .orbitron{font-family: 'Orbitron', sans-serif;} 
  .lobster{ font-family: 'Lobster', cursive; }
